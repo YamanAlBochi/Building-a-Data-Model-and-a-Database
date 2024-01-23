@@ -6,4 +6,5 @@ A mini project to showcase my skills with Basics Data Models, starting from what
 
 2- I create a table with columns and rows with Jupyter NoteBook integrated with PostgreSQL.
 
+
 3. I work with the data, building a data model then deploying the data model into a database.
